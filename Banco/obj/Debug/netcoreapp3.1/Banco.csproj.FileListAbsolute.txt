@@ -1,0 +1,13 @@
+D:\Faculdade\CursoDotNet\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+D:\Faculdade\CursoDotNet\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+D:\Faculdade\CursoDotNet\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+D:\Faculdade\CursoDotNet\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+D:\Faculdade\CursoDotNet\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+D:\Faculdade\CursoDotNet\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+D:\Faculdade\CursoDotNet\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+D:\Faculdade\CursoDotNet\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+D:\Faculdade\CursoDotNet\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+D:\Faculdade\CursoDotNet\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+D:\Faculdade\CursoDotNet\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+D:\Faculdade\CursoDotNet\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+D:\Faculdade\CursoDotNet\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
